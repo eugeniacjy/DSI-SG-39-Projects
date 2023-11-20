@@ -49,7 +49,7 @@ Demo at: https://project-3-app.streamlit.app
 
 ---
 
-### Project 4: Predicting the Spread of West Nile Virus ()
+### Project 4: Predicting the Spread of West Nile Virus
 
 #### Project Summary:
 You are tasked to effectively plan the deployment of pesticides in order to mitigate the spread of the West Nile Virus in Chicago City, through the use of data science methods. You will need to analyse the data given by the Department of Public Health to (a) produce a predictive model to guide spraying of pesticides, and (b) provide an assessment of the costs vs benefits of the cost and effectiveness of pesticide spraying.
